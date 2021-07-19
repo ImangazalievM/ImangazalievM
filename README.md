@@ -17,10 +17,6 @@ Interactive demos with definitions from specs
 * [UTair-MVP-Sample](https://github.com/ImangazalievM/UTair-MVP-Sample)
 * [Notelin](https://github.com/ImangazalievM/Notelin) — Note-taking app written in Kotlin
 
-**🔨 Tools**
-
-* **null**
-
 </td><td valign="top" width="50%">
 
 **📐 Libraries**
@@ -30,4 +26,8 @@ Interactive demos with definitions from specs
 * [ReActiveAndroid](https://github.com/ImangazalievM/ReActiveAndroid) - Simple and powerful ORM for Android
 * [Scripto](https://github.com/ImangazalievM/Scripto) — a bridge between Java and JavaScript in WebView
 
+**🔨 Tools**
+
+* **null**
+  
 </td></tr></table>
