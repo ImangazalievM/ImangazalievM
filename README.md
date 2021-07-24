@@ -7,7 +7,7 @@ Here you can find some of my projects
 
 Interactive demos with definitions from specs
 
-* [JetPack Compose Awesome](https://github.com/ImangazalievM/jetpack-compose-awesome)
+* [JetPack Compose Awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)
 * [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference)
 * [CleanArchitectureManifest](https://github.com/ImangazalievM/CleanArchitectureManifest)
 
