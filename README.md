@@ -1,4 +1,8 @@
-### 👋 Hi! My name is Mahach.
+### 👋 
+<h1 align="center">Hi 👋, I'm Mahach.</h1>
+<h3 align="center">An Android developer from Dagestan, Russia</h3>
+
+### My projects
 
 Here you can find some of my projects
 
