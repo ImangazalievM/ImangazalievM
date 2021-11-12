@@ -1,6 +1,9 @@
-### 👋 
 <h1 align="center">Hi 👋, I'm Mahach.</h1>
 <h3 align="center">An Android developer from Dagestan, Russia</h3>
+
+- 📆 Experienced in Android since 2014
+- 🖥️ Aspired by learning something new
+- ✔️ Apart from work developing [Bubbble](https://github.com/ImangazalievM/Bubbble) - an unofficial app for Android
 
 ### My projects
 
