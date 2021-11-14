@@ -3,7 +3,7 @@
 
 - 📆 Experienced in Android since 2014
 - 🖥️ Aspired by learning something new
-- ✔️ Apart from work developing [Bubbble](https://github.com/ImangazalievM/Bubbble) - an unofficial app for Android
+- ✔️ Apart from work developing [Bubbble](https://github.com/ImangazalievM/Bubbble) - an unofficial Dribbble app for Android
 
 ### My projects
 
